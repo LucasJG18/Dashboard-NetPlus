@@ -1,9 +1,8 @@
 /* ===== Variables ===== */
 :root {
     --brand-blue: #213f9c;
-    --brand-green: #10b981;
+    --brand-green: #18c718;
     --brand-white: #ffffff;
-    --hover-green: #18c718;
 
     --bg-app: #f1f5f9;
     --text-main: #0f172a;
@@ -86,7 +85,7 @@ header nav a {
 }
 
 header nav a:hover {
-    background-color: var(--hover-green);
+    background-color: var(--brand-green);
 }
 
 header nav strong {
@@ -205,7 +204,7 @@ main p {
 }
 
 .botones-tablas a:hover {
-    background-color: var(--hover-green);
+    background-color: var(--brand-green);
 }
 
 /* ===== Tablas ===== */
